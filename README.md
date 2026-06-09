@@ -49,6 +49,7 @@ This analysis helps HR teams to:
 
 ## Dashboard Preview
 
+<img width="598" height="334" alt="dashboard_overview" src="https://github.com/user-attachments/assets/45e512fb-f429-46cd-ade1-0682ca7b1a5a" />
 
 
 ---
